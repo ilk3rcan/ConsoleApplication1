@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             int hede = 0;
+            int bidi = 1;
         }
     }
 }
