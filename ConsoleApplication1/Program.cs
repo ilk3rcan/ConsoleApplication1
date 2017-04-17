@@ -6,6 +6,7 @@
         {
             int hede = 0;
             int bidi = 1;
+            string lolo = "";
         }
     }
 }
