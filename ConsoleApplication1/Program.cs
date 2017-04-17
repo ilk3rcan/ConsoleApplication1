@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            int hede = 0;
         }
     }
 }
